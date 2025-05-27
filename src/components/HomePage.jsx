@@ -76,7 +76,7 @@ export default function HomePage({ onLogout }) {
 
       <Divider sx={{ mb: 3 }} />
 
-      
+      {/* New Post */}
       <Box display="flex" justifyContent="space-between" alignItems="center" mb={2}>
         <Typography variant="h5"><ForumIcon sx={{ mr: 1 }} /> Community Forum</Typography>
         <Button variant="contained" onClick={() => setOpen(true)}>New Post</Button>
