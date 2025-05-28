@@ -27,7 +27,7 @@ This is a frontend-only forum simulation app. It allows users to sign up, sign i
 ## 📦 How to Run
 
 1. Clone the repo  
-   git clone https://github.com/yourusername/forum-react-app.git
+   git clone https://github.com/deebehygh/HyghSignup.git
 
 2. Install dependencies  
    npm install
