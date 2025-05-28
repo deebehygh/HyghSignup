@@ -2,7 +2,6 @@
 
 This is a frontend-only forum simulation app. It allows users to sign up, sign in, and create forum-style posts. Data is stored using browser localStorage — no backend required.
 
----
 
 ## 🔑 Features
 
@@ -13,7 +12,6 @@ This is a frontend-only forum simulation app. It allows users to sign up, sign i
 • LocalStorage-based data persistence  
 • Conditional routing based on login status  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -22,7 +20,6 @@ This is a frontend-only forum simulation app. It allows users to sign up, sign i
 • JavaScript (ES6+)  
 • Browser localStorage  
 
----
 
 ## 📦 How to Run
 
@@ -37,7 +34,6 @@ This is a frontend-only forum simulation app. It allows users to sign up, sign i
 
 Then go to http://localhost:3000
 
----
 
 ## 💡 Learning Focus
 
@@ -48,13 +44,11 @@ This app is great for:
 • Using MUI for styling  
 • Working without a backend  
 
----
 
 ## 📌 Notes
 
 This project is frontend-only. No database or server needed. Great for testing UI ideas and building prototypes.
 
----
 
 MIT License
 
