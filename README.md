@@ -1,4 +1,4 @@
-# 🚀 Forum-Style Web App with React.js + Material UI
+# 🚀 Signup & Signin with React.js + Material UI
 
 This is a frontend-only forum simulation app. It allows users to sign up, sign in, and create forum-style posts. Data is stored using browser localStorage — no backend required.
 
